@@ -19,7 +19,7 @@ This project explores the capabilities of **Google Veo** and **Gemini** to creat
 ### 1. Prompt Engineering (`/prompts`)
 I used a "Master Prompt" strategy to lock in character details before generating motion.
 - **Girl:** Textured blue sweater, fair skin, long hair.
-- **Boy:** Black knit sweater, glasses, curly hair, Indian skin tone.
+- **Boy:** Black knit sweater, glasses, Indian skin tone.
 - *See the full prompt log in the [prompts/](./prompts/) folder.*
 
 ### 2. Motion Synthesis
