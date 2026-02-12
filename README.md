@@ -9,9 +9,9 @@ This project explores the capabilities of **Google Veo** and **Gemini** to creat
 
 ## 🛠 Tech Stack
 - **Concept & Scripting:** Google Gemini 1.5 Pro
-- **Image Generation:** Google Imagen 3 (via Gemini)
+- **Image Generation:** Google Gemini Native Model (Powered by "Nano Banana Pro")
 - **Video Generation:** Google Veo (Image-to-Video)
-- **Post-Production:** DaVinci Resolve 19
+- **Post-Production:** DaVinci Resolve 20
 - **Typography:** Fusion "Follower" Modifier for dynamic lyric animation
 
 ## 📂 Workflow Structure
