@@ -14,7 +14,7 @@ A cinematic close-up shot of a young Indian man with glasses and black sweater s
  
 # Scene 3:   
 
-The New Pose:
+The New Pose: 
 They are sitting upright, side-by-side, looking straight ahead out at the park landscape. Their heads are held straight or tilted very slightly towards the view, but they are not touching. There is a clear, distinct gap of space between their heads and shoulders. They have independent postures.
 The Background:A lush green park bathed in bright, warm golden hour sunlight. The background trees are softly blurred with warm bokeh lighting. Photorealistic, 8k.
 
