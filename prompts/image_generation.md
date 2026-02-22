@@ -12,7 +12,7 @@ note: I didn't used clothing in prompt 1 because it was going to be black & whit
 A cinematic close-up shot of a young Indian man with glasses and black sweater sitting on a park bench next to a young woman with long hair and blue sweater. The woman is turning her head, looking directly at the man's face with a soft, affectionate, and longing expression. The man is looking down at his lap, avoiding eye contact, with a shy and introverted expression. Soft natural lighting, green bokeh background, emotional atmosphere, photorealistic, 8k.
 
 
-# Scene 3: 
+# Scene 3:  
 
 The New Pose:
 They are sitting upright, side-by-side, looking straight ahead out at the park landscape. Their heads are held straight or tilted very slightly towards the view, but they are not touching. There is a clear, distinct gap of space between their heads and shoulders. They have independent postures.
